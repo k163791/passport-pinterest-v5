@@ -1,0 +1,31 @@
+{
+  "name": "passport-pinterest-v5",
+  "version": "1.0.0",
+  "description": "passport pinterest module for v5 api",
+  "main": "lib/index.js",
+  "author": "uzair <uzairhuxxain123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "passport-oauth": "^1.0.0",
+    "pkginfo": "^0.4.1"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/k163791/passport-pinterest-v5.git"
+  },
+  "keywords": [
+    "passport-pinterest-v5"
+  ],
+  "bugs": {
+    "url": "https://github.com/k163791/passport-pinterest-v5/issues"
+  },
+  "homepage": "https://github.com/k163791/passport-pinterest-v5#readme"
+}
